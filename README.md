@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-#I am Leila Wynn. I'm currently a student at Warren Tech, learning Python and cybersecurity. I am also a student at Rocky Mountain Deaf School as a Junior. My goal is to be a Website designer, and I am passionate about graphic design and website development.
+I am Leila Wynn. I'm currently a student at Warren Tech, learning Python and cybersecurity. I am also a student at Rocky Mountain Deaf School as a Junior. My goal is to be a Website designer, and I am passionate about graphic design and website development.
 #Git Hub and Visual Studio Code are my tools I use in my program at Warren Tech.
 <!--
 **Leila-Wynn/Leila-Wynn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
